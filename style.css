@@ -1,0 +1,217 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.one {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(57, 57, 63);
+}
+
+.logo {
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.container {
+    width: 1350px;
+    max-width: 95%;
+    margin: auto;
+    position: fixed;
+    height: 100vh;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 5px;
+    width: 85rem;
+    background-color: rgb(43, 43, 47);
+
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 25px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
+.three img {
+    
+    color: white;
+}
+
+.four {
+    padding-top: 20%;
+    padding-left: 5%;
+    color: white;
+    letter-spacing: 1.5px;
+}
+
+.six {
+    font-size: 300%;
+
+}
+
+.five {
+    font-weight: bold;
+    font-size: 350%;
+}
+
+.seven {
+    text-decoration: underline yellow;
+}
+
+.eight {
+    padding-left: 75%;
+    margin-top: -22%;
+    color: white;
+}
+
+.nine {
+    letter-spacing: 2.5px;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.icon img{
+    color: yellow;
+    width:10% ;
+    height:10%;
+}
+
+.ten img {
+    width: 500px;
+    height: 500px;
+    margin-top: -20%;
+    border-radius: 250px;
+    background-color: rgb(45, 45, 49);
+    display: flex;
+    margin-left: 35%;
+}
+
+body {
+    /* color: antiquewhite !important; */
+    background: linear-gradient(to top,
+            rgb(45, 45, 49) 0%,
+            rgb(45, 45, 49) 50%,
+            rgb(45, 45, 49) 50%,
+            rgb(45, 45, 49) 100%);
+            height: 100vh;
+}
+
+.circle {
+    background-color: #0d1b2a;
+    width: 300px !important;
+    height: 300px !important;
+    border-radius: 150px;
+}
+
+.center {
+    /* background-color: #04AA6D; */
+    display: flex;
+    justify-content: center;
+    /* position: relative;
+  bottom: -335px; */
+}
+
+.center>div {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 270px;
+    height: 80px;
+    background-color: rgb(68, 68, 75);
+}
+
+.center>div>a {
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 45px;
+    background-color: rgb(61, 61, 66);
+    text-decoration: none;
+    color: #131212;
+}
+
+.mcenter {
+    margin-top: -60px !important;
+}
+
+.abcd {
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+
+.efgh {
+    margin-left: -26%;
+    padding: 6%;
+    font-size: large;
+
+}
+.pic{
+    color: yellow;
+}
+
+.hijk img p {
+    display: flex;
+    border-bottom: white;
+    
+}
+
+.the img {
+    vertical-align: middle;
+}
+.hijk{
+    margin-right: -25%;
+    padding: 5%;
+    
+}
+.space{
+    font-size: small;
+    vertical-align:bottom;
+    margin-left: -30%;
+    
+}
+.arro{
+    color: yellow;
+}
+.last{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    font-size: large;
+}
+.app{
+        border: 5px solid rgb(57, 57, 63);
+        padding-top: 6%;
+        height:20pc;
+        width: 350px;
+        border-radius: 5px;
+        background-color: rgb(57, 57, 63);
+        
+    }
+    .pencil img{
+
+        margin-top: -40%;
+        margin-left:5% ;
+        height:50px ;
+        width: 50px;
+        padding: 5px; ;
+        border-radius: 50px;
+        background-color: rgb(43, 43, 47);
+    }
